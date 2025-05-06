@@ -1,0 +1,52 @@
+.header-container{
+  background: red;
+}
+.header-container a{
+  color:white;
+}
+.header-container a.active{
+  color: white;
+  font-weight: bold;
+}
+.navbar-container{
+  position: relative;
+}
+.navbar-container >div{
+  position: absolute;
+  right: 10;
+}
+.service-container{
+  background: red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.service-title{
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.service-card{
+  display:flex;
+  justify-content: center;
+}
+.w-80{
+  width: 80%;
+}
+.useful-links > li{
+  list-style: none;
+  height: 50px;
+  line-height: 50px;
+}
+.useful-links > li >a{
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+.contact-cont{
+  margin-top: 70px !important; 
+  display: flex;
+  flex-direction: row;
+}
+.white{
+  color: white;
+}
