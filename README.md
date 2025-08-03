@@ -1,4 +1,80 @@
-# Getting Started with Create React App
+## 🩸 Blood Bank Management System
+
+A full-stack web application designed to streamline blood donation and request operations. This system provides a responsive interface for donors, hospitals, and administrators to manage blood inventory, donor registrations, and requests securely and efficiently.
+
+---
+
+## 📌 About the Project
+
+Built a full-stack web application to manage blood donation and request operations with a **React-based frontend** and **RESTful API backend**. Integrated **MySQL** for persistent data storage, enabling:
+
+- 🔐 Secure donor registration and login
+- 🩸 Real-time blood inventory tracking
+- 🧑‍💼 Admin panel for managing donor and blood data
+- 📝 Clean, intuitive UI for seamless navigation
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- **React.js**
+- **Tailwind CSS** / **Bootstrap** (if used)
+- **Axios** for API integration
+
+### Backend:
+- **Node.js**
+- **Express.js**
+- **RESTful API Architecture**
+
+### Database:
+- **MySQL**
+- **XAMPP** for local server setup
+
+### Tools:
+- **Postman** for API testing
+- **Visual Studio Code**
+- **Git & GitHub**
+
+---
+
+## 🔑 Key Features
+
+- 📝 **Donor Registration & Authentication**
+- 📥 **Blood Request Submission**
+- 📊 **Admin Dashboard** to monitor blood stock and users
+- 🔍 **Search & Filter by Blood Group**
+- 📈 **Real-time Updates** via persistent DB
+
+---
+
+## 🧪 Testing
+
+- All backend APIs tested with **Postman**
+- Database connectivity tested via **XAMPP (phpMyAdmin)**
+- Frontend thoroughly tested across responsive viewports
+
+---
+
+## 🖼️ UI Screenshots
+
+> ![WhatsApp Image 2025-08-03 at 20 14 27_d8152992](https://github.com/user-attachments/assets/07cc85cd-9695-4bab-919c-26d9a4739858)
+![WhatsApp Image 2025-08-03 at 20 14 27_d8f8cbb8](https://github.com/user-attachments/assets/5bc71fc7-8671-4c95-9e37-6ec2f3be0356)
+![WhatsApp Image 2025-08-03 at 20 14 26_cf893737](https://github.com/user-attachments/assets/deb87fac-80df-424f-bed6-d666dac1c5db)
+![WhatsApp Image 2025-08-03 at 20 14 27_efaeca5d](https://github.com/user-attachments/assets/6afb908f-8eba-4aaa-94b9-a07b370722c3)
+![WhatsApp Image 2025-08-03 at 20 14 27_d8152992](https://github.com/user-attachments/assets/b97f2989-b492-4650-9111-e7e2f2a7e87c)
+![WhatsApp Image 2025-08-03 at 20 14 27_e207622c](https://github.com/user-attachments/assets/91413b41-9b4b-4649-bac6-732f9e70f827)
+> ![WhatsApp Image 2025-08-03 at 20 14 25_cc113021](https://github.com/user-attachments/assets/e0755b14-7a65-444d-a9da-1486f5379c0a)
+
+---
+
+## 🚀 How to Run Locally
+
+### Backend Setup
+```bash
+cd backend
+npm install
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
